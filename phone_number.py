@@ -1,18 +1,3 @@
-# Creati un app ce va cere numarul de telfon
-# (numere arbice)
-# si va printa pe ecran numarul cu caractere.
-# 1 , 2, 3
-# unu , doi , trei
-####################################################
-
-# def phone_number():
-#     x = input("Introduceti numarul de telefon: ")
-#     print("{}-{}-{}".format(x[:3], x[3:6], x[6:]))
-
-
-# phone_number()
-
-#####################################################
 
 def transNum(string):
     number = 1
